@@ -27,7 +27,7 @@ body {
 
 .container {
 
-  background-color: rgba(229, 32, 32, 0.72);
+  background-color: rgba(255, 0, 0, 0.72);
   max-width: 720px;
   margin: 0 auto;
   padding: 0 10px;
@@ -275,12 +275,6 @@ nav {
   }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
-}
 
 footer {
   padding: 20px 0;
